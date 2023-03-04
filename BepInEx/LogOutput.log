@@ -1,0 +1,289 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (2023/3/4 2:38:17)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [BetterUI 2.4.1]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Emote Wheel Mod 1.4.0]
+[Info   :Emote Wheel Mod] EmoteWheel Loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 03/04/2023 23:40:24: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 03/04/2023 23:40:26: Using environment steamid 892970
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Using steam APPID:892970
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Steam initialized, persona:WasteHim
+
+[Info   : Unity Log] 03/04/2023 23:40:26: PlayFab custom ID set to "Steam_76561198343435625"
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Using default prefs
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Valheim version:0.213.4
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Worldgenerator version setup:2
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 03/04/2023 23:40:26: Missing audio clip in music respawn
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Checking for installed DLCs
+
+[Info   : Unity Log] 03/04/2023 23:40:26: DLC:beta installed:False
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 03/04/2023 23:40:26: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 03/04/2023 23:40:27: Loaded localization CSV:localization language:Chinese
+
+[Info   : Unity Log] 03/04/2023 23:40:27: Loaded localization CSV:localization_extra language:Chinese
+
+[Info   : Unity Log] 03/04/2023 23:40:27: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 03/04/2023 23:40:27: Session auth respons callback
+
+[Info   : Unity Log] 03/04/2023 23:40:27: Starting music menu
+
+[Info   : Unity Log] 03/04/2023 23:40:27: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/04/2023 23:40:29: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/04/2023 23:40:30: PlayFab logged in as "Steam_76561198343435625"
+
+[Info   : Unity Log] 03/04/2023 23:40:30: PlayFab local entity ID is 6973855C7F14F126
+
+[Info   : Unity Log] 03/04/2023 23:40:32: FOund selected Start game
+
+[Info   : Unity Log] 03/04/2023 23:40:32: show character selection
+
+[Info   : Unity Log] 03/04/2023 23:40:34: OnCharacterStart
+
+[Info   : Unity Log] 03/04/2023 23:40:36: PlayFab lobby matching search filter 'string_key10 eq '61.170.201.157:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 03/04/2023 23:40:36: Failed to get lobby gameserver
+
+[Info   : Unity Log] 03/04/2023 23:40:36: Failed to get lobby gameserver
+
+[Info   : Unity Log] 03/04/2023 23:40:36: Failed to get lobby gameserver
+
+[Info   : Unity Log] 03/04/2023 23:40:36: Failed to get lobby gameserver
+
+[Info   : Unity Log] 03/04/2023 23:40:37: Added server with name WastedXxX to server list
+
+[Warning: Unity Log] 03/04/2023 23:40:38: Expected zero or one lobby got 3 matching lobbies, returning newest lobby
+
+[Info   : Unity Log] 03/04/2023 23:40:38: Loading main scene
+
+[Info   : Unity Log] 03/04/2023 23:40:38: Cloud Save: 91 bytes. /serverlist/favorite.new
+
+[Info   : Unity Log] 03/04/2023 23:40:38: Steam writing file chunks 1 / 1, (91 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:40:38: Steam Cloud Move: 91 bytes. /serverlist/favorite -> /serverlist/favorite.old
+
+[Info   : Unity Log] 03/04/2023 23:40:38: Steam writing file chunks 1 / 1, (91 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam Cloud Move: 91 bytes. /serverlist/favorite.new -> /serverlist/favorite
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam writing file chunks 1 / 1, (91 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Cloud Save: 91 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam writing file chunks 1 / 1, (91 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam Cloud Move: 91 bytes. /serverlist/recent -> /serverlist/recent.old
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam writing file chunks 1 / 1, (91 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam Cloud Move: 91 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam writing file chunks 1 / 1, (91 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam initialized, persona:WasteHim
+
+[Info   : Unity Log] 03/04/2023 23:40:39: PlayFab custom ID set to "Steam_76561198343435625"
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Using default prefs
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Loading player profile 梦游中
+
+[Info   : Unity Log] 03/04/2023 23:40:39: isModded: True
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Zonesystem Awake 642
+
+[Info   : Unity Log] 03/04/2023 23:40:39: DungeonDB Awake 642
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Steam initialized, persona:WasteHim
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Audioman already exist, destroying self
+
+[Info   : Unity Log] 03/04/2023 23:40:39: Checking for installed DLCs
+
+[Info   : Unity Log] 03/04/2023 23:40:39: DLC:beta installed:False
+
+[Info   : Unity Log] 03/04/2023 23:40:42: Zonesystem Start 642
+
+[Info   : Unity Log] 03/04/2023 23:41:01: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 03/04/2023 23:41:01: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 03/04/2023 23:41:01: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   : Unity Log] 03/04/2023 23:41:01: DungeonDB Start 642
+
+[Info   : Unity Log] 03/04/2023 23:41:01: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 03/04/2023 23:41:01: Connecting to server with PlayFab-backend E02CFB1EC5F70351
+
+[Info   : Unity Log] 03/04/2023 23:41:01: PlayFab socket with remote ID E02CFB1EC5F70351 sent local Platform ID Steam_76561198343435625
+
+[Info   : Unity Log] 03/04/2023 23:41:01: Session auth respons callback
+
+[Warning: Unity Log] 03/04/2023 23:41:02: Expected zero or one lobby got 4 matching lobbies, returning newest lobby
+
+[Info   : Unity Log] 03/04/2023 23:41:06: Get Lobby
+Server Name : WastedXxX
+Server IP : 46.51.224.90:2456
+Version : 0.213.4
+Player ID : E02CFB1EC5F70351
+Players : 2
+Lobby ID : 086038cf-671b-4bc0-8130-0436b1fc3be1
+Network ID : f7bab50c-7048-494c-87aa-891a0ca2251d|AwB7kSHA8/8/ui+WE0qn1oQihLn2UlNvdXRoZWFzdEFzaWEAAAAAAAAAt3WiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWE2ZjhiMTkzLWQ1ZDMtNDZiNi1iNWVlLTA1NTlkOTgyYThiOC5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 053510
+Dedicated : True
+Community : True
+TickCreated : 638135412335860090
+
+
+[Info   : Unity Log] 03/04/2023 23:41:06: Joining server 'WastedXxX' at PlayFab network f7bab50c-7048-494c-87aa-891a0ca2251d|AwB7kSHA8/8/ui+WE0qn1oQihLn2UlNvdXRoZWFzdEFzaWEAAAAAAAAAt3WiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWE2ZjhiMTkzLWQ1ZDMtNDZiNi1iNWVlLTA1NTlkOTgyYThiOC5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ== from lobby 086038cf-671b-4bc0-8130-0436b1fc3be1
+
+[Info   : Unity Log] 03/04/2023 23:41:07: PlayFab client socket to remote player E02CFB1EC5F70351 joined network f7bab50c-7048-494c-87aa-891a0ca2251d|AwB7kSHA8/8/ui+WE0qn1oQihLn2UlNvdXRoZWFzdEFzaWEAAAAAAAAAt3WiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWE2ZjhiMTkzLWQ1ZDMtNDZiNi1iNWVlLTA1NTlkOTgyYThiOC5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+
+[Info   : Unity Log] 03/04/2023 23:41:07: ZRpc timeout set to 90s 
+
+[Info   : Unity Log] 03/04/2023 23:41:08: PlayFab socket connected to remote player E02CFB1EC5F70351
+
+[Info   : Unity Log] 03/04/2023 23:41:08: Muted PlayFab remote player E02CFB1EC5F70351
+
+[Info   : Unity Log] 03/04/2023 23:41:10: VERSION check their:0.213.4  mine:0.213.4
+
+[Info   : Unity Log] 03/04/2023 23:41:10: Worldgenerator version setup:2
+
+[Info   : Unity Log] 03/04/2023 23:41:12: Session auth respons callback
+
+[Info   : Unity Log] 03/04/2023 23:41:18: Unpacking compressed mapdata 8230
+
+[Info   : Unity Log] 03/04/2023 23:41:18: Starting respawn
+
+[Info   : Unity Log] 03/04/2023 23:41:18: client got keys 0
+
+[Info   : Unity Log] 03/04/2023 23:41:18: client got location icons
+
+[Info   : Unity Log] 03/04/2023 23:41:18: Icons:1
+
+[Info   : Unity Log] 03/04/2023 23:41:18: tip:$loadscreen_tip25
+
+[Info   : Unity Log] 03/04/2023 23:41:21: Force generaeting hmap (-128.0, 0.0, -128.0)
+
+[Info   : Unity Log] 03/04/2023 23:41:21: Force generaeting hmap (-128.0, 0.0, -64.0)
+
+[Info   : Unity Log] 03/04/2023 23:41:21: Force generaeting hmap (128.0, 0.0, 128.0)
+
+[Info   : Unity Log] 03/04/2023 23:41:26: Spawned after 8.019994
+
+[Info   :Emote Wheel Mod] Spawned EquipGui!
+[Info   : Unity Log] 03/04/2023 23:41:26: Skipping unloading unused assets
+
+[Info   : Unity Log] 03/04/2023 23:41:26: Minimap: Adding unique location (-1.6, 72.6, -3.9)
+
+[Info   : Unity Log] 03/04/2023 23:41:28: Starting music meadows
+
+[Info   : Unity Log] 03/04/2023 23:41:28: Resumed music meadows at 0
+
+[Info   : Unity Log] 03/04/2023 23:41:47: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Shuting down
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Uncompressed size 8388617
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Compressed size 8230
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Cloud Save: 17591 bytes. /characters/梦游中.fch.new
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Steam writing file chunks 1 / 1, (17591 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Steam Cloud Move: 17591 bytes. /characters/梦游中.fch -> /characters/梦游中.fch.old
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Steam writing file chunks 1 / 1, (17591 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Steam Cloud Move: 17591 bytes. /characters/梦游中.fch.new -> /characters/梦游中.fch
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Steam writing file chunks 1 / 1, (17591 bytes)
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Considering autobackup. World time: 39.02, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 03/04/2023 23:41:48: ZNet Shutdown
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Unloading unused assets
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Sending disconnect msg
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Sent to playfab/E02CFB1EC5F70351
+
+[Info   : Unity Log] 03/04/2023 23:41:48: Released session ticket
+
+[Info   : Unity Log] 03/04/2023 23:41:48: FOund selected Button_yes
+
+[Warning: Unity Log] 03/04/2023 23:41:48: Local player destroyed
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Left PlayFab lobby 086038cf-671b-4bc0-8130-0436b1fc3be1
+
+[Info   : Unity Log] 03/04/2023 23:41:49: ZNet OnDestroy
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Net scene destroyed
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 03/04/2023 23:41:49: Steam initialized, persona:WasteHim
+
+[Info   : Unity Log] 03/04/2023 23:41:49: PlayFab custom ID set to "Steam_76561198343435625"
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Using default prefs
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Valheim version:0.213.4
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Worldgenerator version setup:2
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Audioman already exist, destroying self
+
+[Info   : Unity Log] 03/04/2023 23:41:49: Checking for installed DLCs
+
+[Info   : Unity Log] 03/04/2023 23:41:49: DLC:beta installed:False
+
+[Info   : Unity Log] 03/04/2023 23:41:50: Ticket is System.Byte[] of length 369
+
+[Info   : Unity Log] 03/04/2023 23:41:50: Session auth respons callback
+
+[Info   : Unity Log] 03/04/2023 23:41:50: Starting music menu
+
+[Info   : Unity Log] 03/04/2023 23:41:50: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/04/2023 23:41:51: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/04/2023 23:41:52: Stopped music meadows at 1062163
+
