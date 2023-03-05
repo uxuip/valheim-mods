@@ -1,1 +1,9 @@
 *
+!.gitignore
+!/BepInEx/
+!/BepInEx/*
+!/doorstop_libs/
+!/doorstop_libs/*
+!/unstripped_corlib/
+!/unstripped_corlib/*
+*.log
